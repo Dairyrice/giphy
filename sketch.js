@@ -2,7 +2,7 @@ var api = "https://api.giphy.com/v1/gifs/search?";
 
 var apiKey = "&api_key=0UG01kS1ABG8wu8AcbEL7z1Hm6DvfBDj";
 
-var query = "&q=rainbow";
+var query = "&q=dog";
 
 
 function setup() {
@@ -18,5 +18,5 @@ function gotData(giphy) {
 }
 
 function draw() {
- 
+
 }
